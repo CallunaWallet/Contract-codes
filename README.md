@@ -16,5 +16,5 @@
 * For any official updates of Calluna.
 
 
-[**Calluna Customer Support**](callunawalletofficial@gmail.com)
+<p><a href="mailto:foo@bar.example.com">Calluna Customer Support</a></p>
 * For cases such as missing funds, help with 2FA, etc.
