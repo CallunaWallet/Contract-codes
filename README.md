@@ -12,9 +12,6 @@
 * For any questions regarding CAN Mining.
 * For any general questions about the Contact ABI.
 
-[**Calluna Medium**](https://callunawallet.medium.com/)
-* For any official updates of Calluna.
 
-
-<p><a href="mailto:callunawalletofficial@gmail.com">Calluna Customer Support</a> @callunawalletofficial@gmail.com</p>
+[**Calluna Customer Support**](mailto:callunawalletofficial@gmail.com) @callunawalletofficial@gmail.com
 * For cases such as missing funds, help with 2FA, etc.
